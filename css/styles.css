@@ -1,0 +1,114 @@
+
+
+body {background-color: #86C8BC;;
+    margin:0;
+    text-align : center;
+    font-family : 'Courier New';
+    
+}
+
+a {text-decoration : none}
+
+hr {border: 7px dotted #127765;
+    border-style: none none dotted; 
+    background-color: #86C8BC;
+    width: 10%}
+
+h1 {color: #046582; font-size:60px;
+    margin-top: 0;}
+    
+h3 {width: 50%;
+    margin: 0 auto 0 auto;}
+
+    
+
+h2 {color: #046582}
+
+p {color : #a0d3da}
+
+ul {color : #30475E}
+
+table {
+    color : #30475E;
+    text-align : left;
+    margin-top : 780;
+    margin-left : auto;
+    margin-right: auto;
+    border-spacing: 20px;}
+
+
+.cloud1 {position: fixed;
+    padding: 5px;
+    right:6%;
+    top: 20%;
+    opacity: .6;
+}
+
+.cloud2 {position: fixed;
+    padding: 5px;
+    left:3%;
+    top: 30%;
+    opacity: .6;
+  
+}
+
+.hobbies {background-color: #86C8BC;
+    padding:3%;
+    margin: 50;
+    text-align : left;
+    font-family : 'Courier New';
+}
+
+.selfie{border-radius: 100%
+}
+
+.bacon:hover{ border: 3px solid #F67280;}
+
+.top{background-color: hsl(180, 52%, 84%);
+    margin-top : 780;
+    }
+
+.contact{background-color: #156b5b;
+    color: #baf8ed;
+    text-align : bottom;
+    clear: both;
+    position: relative;
+    height: 140px;
+    margin-top: 60px;
+    font-size:20px;
+
+    }
+    
+.btn {
+    font-family : 'Sacramento';
+
+    font-size: 40px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #2fa791, #156b5b);
+    background-image: -moz-linear-gradient(top, #2fa791, #156b5b);
+    background-image: -ms-linear-gradient(top, #2fa791, #156b5b);
+    background-image: -o-linear-gradient(top, #2fa791, #156b5b);
+    background-image: linear-gradient(to bottom, #2fa791, #156b5b);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #b9f3e8;
+    padding: 10px 20px 10px 20px;
+
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+
+}
+
+
+
+/*
+#heading {color: #F67280}
+*/
