@@ -49,8 +49,12 @@ table {
     left:3%;
     top: 30%;
     opacity: .6;
-  
 }
+
+.mountain{
+    margin-bottom: -5px;
+}
+
 
 .hobbies {background-color: #86C8BC;
     padding:3%;
